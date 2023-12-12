@@ -6,7 +6,7 @@
 
 - ⚒️ Proficient in building single-page apps.
 
-- 🏆 I recently built a clone of Fiverr, check it out, it has everything! **[sixerr](https://sixerr.onrender.com/)**
+- 🏆 I recently built a clone of Fiverr, check it out, Some say better than the original😉 **[Connect Sixerr](https://sixerr.onrender.com/)**
 
 - 📫 How to reach me : **amsalemraz10@gmail.com**
 
