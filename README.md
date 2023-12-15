@@ -2,6 +2,9 @@
 <h3 align="center">A Full-Stack/Frontend developer.</h3>
 <h3 align="center">In addition, I'm learning new technologies all the time and implementing them in my projects.</h3>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=200&duration=3000&pause=1000&color=F7F7F7&repeat=false&random=false&width=600&lines=Hello%2C+welcome+to+my+github+profile!;You+can+browse+my+latest+projects;Dont+forget+to+leave+your+review!)](https://git.io/typing-svg)
+
+
 - 🎯 High self-disciplined with a constant drive for professional excellence.
 
 - ⚒️ Proficient in building single-page apps.
