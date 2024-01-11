@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Raz Amsalem 👋</h1>
+<h1 align="center">Hi, I'm Raz 👋</h1>
 <h3 align="center">A Full-Stack/Frontend developer.</h3>
 <h3 align="center">In addition, I'm learning new technologies all the time and implementing them in my projects.</h3>
 
